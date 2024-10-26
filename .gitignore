@@ -1,0 +1,13 @@
+__pycache__
+.vscode
+Data
+Data4AI
+2024《医学图像处理》课程实验要求.pdf
+no_freature_segmentation_metrics.csv
+pix_freature_segmentation_metrics.csv
+texture_freature_segmentation_metrics.csv
+picss
+picsg
+预训练unet_vgg生成的img_out (512,512)
+预训练unet_vgg训练测试集合划分
+Data4AI.zip

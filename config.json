@@ -1,0 +1,17 @@
+{
+    "feature": {
+        "image_dir": "Data/Image",
+        "annotation_dir": "Data/Annotation",
+        "method": "laws"
+    },
+    "all_way": {
+        "image_path": "Data/Laws_feature/ISIC_0000000.png",
+        "annotation_path": "Data/Annotation/ISIC_0000000.png",
+        "csv_file": "Laws_feature_segmentation_metrics.csv"
+    },
+    "one_way": {
+        "image_dir": "Data/Texture_feature",
+        "annotation_dir": "Data/Annotation",
+        "method": "clustering"
+    }
+}
